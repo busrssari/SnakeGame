@@ -1,2 +1,2 @@
 # SnakeGame
-A Snake Game on a 3D board, played in the terminal with baits and obstacles.
+You can watch the gameplay demo here: https://www.youtube.com/watch?v=b5q4at8f4aI
